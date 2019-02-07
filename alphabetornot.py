@@ -1,5 +1,5 @@
 print("Enter '0' for exit.");
-num = input("Enter any character: ");
+num = input("Enter any character or alphabet: ");
 if num == '0':
     exit();
 else:
