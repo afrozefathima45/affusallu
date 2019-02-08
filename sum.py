@@ -1,4 +1,5 @@
 sum=0
+
 x=input().split()
 y=input().split()
 n=int(x[0])
