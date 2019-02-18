@@ -1,4 +1,6 @@
 a=input().split()
+
+
 b=int(a[0])
 c=int(a[1])
 for num in range(b,c):
