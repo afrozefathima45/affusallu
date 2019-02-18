@@ -1,5 +1,7 @@
 num=int(input())
 
+
+
 factorial = 1
 if num < 0:
    print("Factorrial does not exist for negative numbers")
